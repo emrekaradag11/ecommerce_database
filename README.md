@@ -40,7 +40,7 @@ Hi! I am Emre. In this project, you will see the details of the e-commerce datab
 
 
 ## :star2: Database Schema And Relationships
-![This is an image](https://i.hizliresim.com/qz4kstv.png)
+![This is an image](https://raw.githubusercontent.com/emrekaradag11/ecommerce_database/refs/heads/main/databaseShema.png)
 
 ## :100: Facilities Provided By The System
 
